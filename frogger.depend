@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1458398870 source:/media/rickard/short-storage/code projects/map/frogger/banner.cpp
+
+1458625856 source:/media/rickard/short-storage/code projects/map/frogger/main.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<iostream>
+	<vector>
+	"life.h"
+	"enemy.h"
+	"treetrunk.h"
+
+1458624960 /media/rickard/short-storage/code projects/map/frogger/life.h
+
+1458625507 /media/rickard/short-storage/code projects/map/frogger/enemy.h
+
+1458625807 /media/rickard/short-storage/code projects/map/frogger/treetrunk.h
+
+1458709823 source:/home/rickard/Documents/frogger/main.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<iostream>
+	<vector>
+	"life.h"
+	"enemy.h"
+	"treetrunk.h"
+	"car.h"
+
+1458624960 /home/rickard/Documents/frogger/life.h
+
+1458709658 /home/rickard/Documents/frogger/enemy.h
+
+1458625807 /home/rickard/Documents/frogger/treetrunk.h
+
+1458706689 /home/rickard/Documents/frogger/car.h
+
