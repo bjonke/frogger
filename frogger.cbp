@@ -2,10 +2,10 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="frogger" />
+		<Option title="frogger-linux" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
-		<Option show_notes="0">
+		<Option show_notes="1">
 			<notes>
 				<![CDATA[Frogger old arcade game]]>
 			</notes>
@@ -48,8 +48,13 @@
 		<Linker>
 			<Add option="`sdl-config --libs`" />
 		</Linker>
+		<Unit filename="addcar.h" />
+		<Unit filename="banner.cpp" />
 		<Unit filename="car.h" />
+		<Unit filename="enemy.h" />
+		<Unit filename="life.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="treetrunk.h" />
 		<Extensions>
 			<code_completion />
 			<debugger />
